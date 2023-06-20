@@ -3,7 +3,7 @@ import 'package:url_launcher/url_launcher.dart';
 class back1 {
   final Uri _url =
       Uri.parse('https://www.linkedin.com/in/jose-jhonatan-silva-santos');
-  final Uri _urlGit = Uri.parse('https://github.com/JhonSilva98/IMC_Conceito');
+  final Uri _urlGit = Uri.parse('https://github.com/JhonSilva98/imc_conceito');
 
   Uri get url => _url;
   Uri get urlGit => _urlGit;
