@@ -1,3 +1,8 @@
+![Screenshot_1687303026](https://github.com/JhonSilva98/imc_conceito/assets/53879683/90a3bcbf-b182-434d-96b1-0262ca9a80e6)
+![Uploading Screenshot_1687303015.png…]()
+![Uploading Screenshot_1687303007.png…]()
+![Uploading Screenshot_1687302989.png…]()
+![Uploading Screenshot_1687302975.png…]()
 # IMC Conceito
 
 O aplicativo IMC Conceito é uma ferramenta útil e intuitiva para ajudar as pessoas a monitorarem e entenderem seu Índice de Massa Corporal (IMC). O IMC é uma medida que relaciona o peso e a altura de uma pessoa, fornecendo uma estimativa da proporção entre gordura corporal e massa muscular.
@@ -19,6 +24,11 @@ Contém:
 - Transicão de tela.
 - Gerencia de estado padrão.
 Entre outros...
+
+
+
+![Uploading Screenshot_1687302943.png…]()
+![Uploading Screenshot_1687302690.png…]()
 
 ## Getting Started
 
