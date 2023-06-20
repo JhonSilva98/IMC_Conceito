@@ -19,7 +19,7 @@ Contém:
 - Transicão de tela.
 - Gerencia de estado padrão.
 Entre outros...
-![Screenshot_1687302690](https://github.com/JhonSilva98/imc_conceito/assets/53879683/1f97ddc3-4502-47a9-8b04-4726fab21416)
+
 ![Screenshot_1687302943](https://github.com/JhonSilva98/imc_conceito/assets/53879683/ccb45596-b1f7-4729-9009-2ffe3118d427)
 ![Screenshot_1687302975](https://github.com/JhonSilva98/imc_conceito/assets/53879683/07146e3c-0eca-4d2e-86ae-51bb8ab1c54d)
 ![Screenshot_1687302989](https://github.com/JhonSilva98/imc_conceito/assets/53879683/7fe1f529-0a18-45e0-8abe-5924d4c94fc4)
