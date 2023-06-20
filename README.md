@@ -12,6 +12,14 @@ O IMC Conceito se destaca por sua interface intuitiva e amigável, tornando-o ac
 
 Em resumo, o IMC Conceito é um aplicativo completo que visa auxiliar as pessoas a entenderem seu IMC, adotarem hábitos saudáveis ​​e acompanharem seu progresso em busca de uma vida mais equilibrada e saudável.
 
+Contém:
+- Tratamento e verificações de erros.
+- Animações.
+- Links redes sociais
+- Transicão de tela.
+- Gerencia de estado padrão.
+Entre outros...
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
